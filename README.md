@@ -21,7 +21,7 @@ Abra http://localhost:3000.
 ## Roadmap
 
 1. ~~Esqueleto publicado na Vercel~~ ✅
-2. Módulos e Aulas em MDX (um Módulo de exemplo)
+2. ~~Módulos e Aulas em MDX (um Módulo de exemplo)~~ ✅
 3. Login (e-mail/senha + Google)
 4. Exercícios, Respostas e Progresso
 5. Assistente e Roteiros

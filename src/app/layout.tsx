@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "StoryVision",
+  title: { default: "StoryVision", template: "%s · StoryVision" },
   description: "Storytelling com dados: aprenda e crie roteiros de apresentação.",
 };
 
